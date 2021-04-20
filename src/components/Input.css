@@ -1,0 +1,31 @@
+.operand {
+    height: 2em;
+    width: 1em;
+    align-items:center;
+    font-weight: bold;
+    font-size: 3em;
+    background-color: #505160;
+    color: white;
+    padding: 0.5em;
+    border: 1px solid black;
+    border-right:1px solid transparent;
+}
+.input {
+    height: 2em;
+    width:  15em;
+    display:ruby-base;
+    direction: rtl;
+    margin: 0 auto;
+    align-items: center;
+    font-weight: bold;
+    font-size: 3em;
+    background-color:#505160;
+    color: white;
+    padding: 0.5em;
+    border: 1px solid black;
+    border-left:1px solid transparent;
+    overflow-x: auto; /* Hide horizontal scrollbar */
+    overflow-y: hidden; /* Add vertical scrollbar */
+}
+
+

@@ -1,0 +1,19 @@
+.clearbutton-wrapper {
+    height: 2em;
+    max-width: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:normal;
+    font-size: 3em;
+    background-color: white;
+    color: Black;
+    flex: 6.2%;
+    outline: 0.1px solid black;
+}
+
+.operator {
+    background-color: #68829E;
+    color: white;
+}
+
